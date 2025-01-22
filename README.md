@@ -1,9 +1,11 @@
-<!-- Buradaki görevlerin hepsi koşullu oluşturmayı, yani bileşenin mevcut state(ler)ine bağlı olarak bileşen tarafından neyin oluşturulup oluşturulmayacağını kontrol etmek için koşullu mantık kullanmayı içerir.
+# Mat-A-Matik Quiz
+A fun and interactive math quiz application that challenges users with random math questions! The app provides instant feedback, letting users know if their answer is correct or guiding them with hints like "higher" or "lower."
 
-React'te koşullu görüntülemeye yaklaşabileceğiniz birkaç yol vardır:
+## Features
+- Randomly generated math questions.
+- Instant feedback on answers (Correct, Higher, or Lower).
+- Simple and engaging UI for quick math practice.
+- Built with React.
 
-    - Mantıksal AND (&&) operatörü
-    - Üçlü operatör
-    - JSX'i bir değişkene koşullu olarak atama
-
-Bunlardan herhangi birini kullanabilirsiniz. Ayrıca, bileşenin state'lerine aşina olmak ve challenge'ı gerçekleştirmede nasıl kullanılabileceklerini görmek için App bileşenindeki showStates fonksiyonunu kullanma hakkındaki ipucunu takip ettiğinizden emin olun.  -->
+## Live Demo
+Test your math skills here: [Mat-A-Matik Quiz Live Demo](https://mat-a-matik-quiz.vercel.app/)
